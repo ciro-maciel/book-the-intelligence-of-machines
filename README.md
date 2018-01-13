@@ -22,3 +22,4 @@
 
 ### Artigos
 - [Towards Intelligent Industrial Co-robots](http://bair.berkeley.edu/blog/2017/12/12/corobots/)
+- [Algorithm Types](https://en.wikipedia.org/wiki/Machine_learning#Algorithm_types)
