@@ -12,4 +12,4 @@ Uma máquina de vetores de suporte é um conceito na ciência da computação pa
 - [Regression Analysis](https://en.wikipedia.org/wiki/Regression_analysis)
 - [Statistical Classification](https://en.wikipedia.org/wiki/Statistical_classification)
 - [Support Vector Machines](http://scikit-learn.org/stable/modules/svm.html)
-- []()
+- [sklearn.svm.SVC](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
