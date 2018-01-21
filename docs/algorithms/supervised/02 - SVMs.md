@@ -4,7 +4,6 @@ Uma máquina de vetores de suporte é um conceito na ciência da computação pa
 - Otima classificacao
 - Classificacao de imagens
 - Cetegorizacao de textos
-- 
 
 ### Referencias
 - [Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)

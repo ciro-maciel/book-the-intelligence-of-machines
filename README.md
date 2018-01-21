@@ -23,3 +23,9 @@
 ### Artigos
 - [Towards Intelligent Industrial Co-robots](http://bair.berkeley.edu/blog/2017/12/12/corobots/)
 - [Algorithm Types](https://en.wikipedia.org/wiki/Machine_learning#Algorithm_types)
+
+### Javascript library
+- [A curated list of Machine Learning Surveys, Tutorials and Books.](https://github.com/mlreview/machine-learning-surveys)
+- [Machine learning tools in JavaScript](https://github.com/mljs/ml)
+- [Deep Learning in Javascrip](https://github.com/karpathy/convnetjs)
+- [Small JavaScript implementation of ID3 Decision tree](https://github.com/lagodiuk/decision-tree-js)
