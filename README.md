@@ -28,4 +28,5 @@
 - [A curated list of Machine Learning Surveys, Tutorials and Books.](https://github.com/mlreview/machine-learning-surveys)
 - [Machine learning tools in JavaScript](https://github.com/mljs/ml)
 - [Deep Learning in Javascrip](https://github.com/karpathy/convnetjs)
+- [Decision trees using CART implementation](https://github.com/mljs/decision-tree-cart)
 - [Small JavaScript implementation of ID3 Decision tree](https://github.com/lagodiuk/decision-tree-js)
