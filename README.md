@@ -30,3 +30,8 @@
 - [Deep Learning in Javascrip](https://github.com/karpathy/convnetjs)
 - [Decision trees using CART implementation](https://github.com/mljs/decision-tree-cart)
 - [Small JavaScript implementation of ID3 Decision tree](https://github.com/lagodiuk/decision-tree-js)
+
+### Date
+#### 2018.01.30
+- [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+- [Preview de Fundamentos de Deep Learning](https://classroom.udacity.com/courses/sp101)
