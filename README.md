@@ -1,4 +1,4 @@
-## the-machine-learning
+## the-intelligence-of-machines
 
 ### Course 
 - [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120/)
